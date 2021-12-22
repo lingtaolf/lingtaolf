@@ -3,9 +3,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lingtaolf&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
-- 🔭 I’m currently focusing on OLAP & Clickhouse
+- 🔭 :Focusing on OLAP & Clickhouse
 - :hammer: OLAP developer
-- 📫 How to reach me `lingtaolf@gmail.com`
+- 📫 :`lingtaolf@gmail.com`
 - ⚡ Fun fact `Dota2 & Coding`
 <!--
 **lingtaolf/lingtaolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
