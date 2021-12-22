@@ -4,7 +4,7 @@
 
 
 - 🔭 : OLAP & Clickhouse
-- :hammer: OLAP developer
+- 🤔 : OLAP developer
 - 📫 :`lingtaolf@gmail.com`
 - ⚡: `Dota2 & Coding`
 <!--
