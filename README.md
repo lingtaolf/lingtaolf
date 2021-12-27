@@ -14,7 +14,7 @@
 - 🤔 : `OLAP developer`
 - 📫 :`lingtaolf@gmail.com`
 - ⚡: `Dota2 & Coding`
-- 📱: Telegram  `@SethLin`
+- 📱: `Telegram  @SethLin`
 <!--
 **lingtaolf/lingtaolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
