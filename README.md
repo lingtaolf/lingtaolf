@@ -7,7 +7,7 @@
   
 ### Hi there, I'm Ling👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lingtaolf&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+< img src="https://github-readme-stats.vercel.app/api?username=lingtaolf&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" /\>
 
 
 - 🔭 : `OLAP & Database`
