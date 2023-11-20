@@ -1,4 +1,4 @@
-<img src="https://staticg.sportskeeda.com/editor/2022/04/21992-16512697276612.png" height=400px/>
+<img src='https://i0.wp.com/www.spielanime.com/wp-content/uploads/2023/07/One-Piece-Wanted-Posters-Explained.jpg?resize=1024%2C576&ssl=1'/>
   
 ### Hi there, I'm Seth👋
 
