@@ -2,8 +2,9 @@
   
 ### Hi there, I'm Seth👋
 
-  
-![](https://raw.githubusercontent.com/lingtaolf/lingtaolf/main/assets/github-contribution-grid-snake.svg)              
+
+![](https://github.com/lingtaolf/lingtaolf/blob/output/github-snake.gif?raw=true)
+
 
 
 - 🔭 : `OLAP & Database`
