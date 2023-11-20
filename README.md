@@ -3,8 +3,13 @@
 ### Hi there, I'm Seth👋
 
 
-![](https://github.com/lingtaolf/lingtaolf/blob/output/github-snake.gif?raw=true)
+![暗色](https://github.com/lingtaolf/lingtaolf/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 
+
+作者：fangzhou_lu
+链接：https://juejin.cn/post/7119378607629140005
+来源：稀土掘金
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 
 - 🔭 : `OLAP & Database`
