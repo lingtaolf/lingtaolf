@@ -1,7 +1,4 @@
-body {
-  background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.duoduosucai.com%2Fpic%2F3669626.html&psig=AOvVaw1j998huqqEz5CWttqTJS2M&ust=1700561265204000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCOjO18Kq0oIDFQAAAAAdAAAAABAJ');
-}
-
+<img src="https://pic.duoduosucai.com/00/36/69/003669626ebf2fe59.webp" />
   
 ### Hi there, I'm Seth👋
 
