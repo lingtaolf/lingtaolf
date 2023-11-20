@@ -1,4 +1,4 @@
-<img src="https://staticg.sportskeeda.com/editor/2022/04/21992-16512697276612.png" height=12px/>
+<img src="https://staticg.sportskeeda.com/editor/2022/04/21992-16512697276612.png" height=400px/>
   
 ### Hi there, I'm Seth👋
 
