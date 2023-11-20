@@ -3,7 +3,7 @@
 ### Hi there, I'm Seth👋
 
 
-![暗色](https://github.com/lingtaolf/lingtaolf/blob/output/github-contribution-grid-snake.svg)
+![暗色](https://raw.githubusercontent.com/lingtaolf/lingtaolf/main/assets/github-contribution-grid-snake.svg)
 
 - 🔭 : `OLAP & Database`
 - 🤔 : `OLAP developer`
