@@ -1,4 +1,4 @@
-<img src="http://pic.bizhi360.com/bbpic/58/5058.jpg" />
+<img src="https://staticg.sportskeeda.com/editor/2022/04/21992-16512697276612.png" />
   
 ### Hi there, I'm Seth👋
 
