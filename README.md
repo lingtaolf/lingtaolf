@@ -1,6 +1,6 @@
 <img src='https://i0.wp.com/www.spielanime.com/wp-content/uploads/2023/07/One-Piece-Wanted-Posters-Explained.jpg?resize=1024%2C576&ssl=1'/>
   
-### Hi there, I'm Seth👋
+### Hi there, I'm Seth  ʕ·ᴥ·ʔ  👋👋
 
 
 ![暗色](https://raw.githubusercontent.com/lingtaolf/lingtaolf/output/github-contribution-grid-snake.svg)
