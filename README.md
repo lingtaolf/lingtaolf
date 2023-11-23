@@ -5,8 +5,10 @@
 <br/>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lingtaolf" /> </div>
   
-<div align="center"> <img src=https://raw.githubusercontent.com/lingtaolf/lingtaolf/output/github-contribution-grid-snake.svg /> </div>  
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lingtaolf&title=Commit,PR,Stars,Followers,Issue,Repo&theme=oldie" /> </div>
+<div align="center"> <img src=https://raw.githubusercontent.com/lingtaolf/lingtaolf/output/github-contribution-grid-snake.svg /> </div>   
+  
+<div align="center"> <img src=https://github-profile-trophy.vercel.app/?username=lingtaolf&row=2&column=3&title=Commit,PR,Stars,Followers,Issue,Repo&theme=oldie /> </div> 
+  
 <br/>
 <br/>
 
