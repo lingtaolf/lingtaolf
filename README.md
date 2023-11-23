@@ -1,6 +1,8 @@
 
   
-### Hi there, I'm Seth  ʕ·ᴥ·ʔ  👋👋
+<div align="center"><font size=50> <b>Hi there, I'm Seth  ʕ·ᴥ·ʔ </b>  👋👋" <font/></div>  
+<br/>
+<br/>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lingtaolf" /> </div>
   
 <div align="center"> <img src=https://raw.githubusercontent.com/lingtaolf/lingtaolf/output/github-contribution-grid-snake.svg /> </div>  
