@@ -1,10 +1,12 @@
 
   
 ### Hi there, I'm Seth  ʕ·ᴥ·ʔ  👋👋
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=lingtaolf&theme=xcode" /> </div>
 
 ![](https://raw.githubusercontent.com/lingtaolf/lingtaolf/output/github-contribution-grid-snake.svg)  
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lingtaolf&row=3&column=3" /> </div>
+
 
 
 - 🔭 : `OLAP & Database`
