@@ -4,7 +4,7 @@
 
 ![](https://raw.githubusercontent.com/lingtaolf/lingtaolf/output/github-contribution-grid-snake.svg)  
 
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lingtaolf" /> </div>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lingtaolf&row=3&column=3" /> </div>
 
 
 - 🔭 : `OLAP & Database`
