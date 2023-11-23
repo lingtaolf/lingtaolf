@@ -1,33 +1,18 @@
 
   
 ### Hi there, I'm Seth  ʕ·ᴥ·ʔ  👋👋
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=lingtaolf&theme=xcode" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lingtaolf" /> </div>
+  
+<div align="center"> <img src=https://raw.githubusercontent.com/lingtaolf/lingtaolf/output/github-contribution-grid-snake.svg /> </div>  
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lingtaolf&title=Commit,PR,Stars,Followers,Issue,Repo&theme=oldie" /> </div>
+<br/>
+<br/>
 
-![](https://raw.githubusercontent.com/lingtaolf/lingtaolf/output/github-contribution-grid-snake.svg)  
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lingtaolf&row=3&column=3" /> </div>
-
-
-
-- 🔭 : `OLAP & Database`
-- 🤔 : `OLAP developer`
-- 📫 :`lingtaolf@gmail.com`
-- ⚡: `Dota2 & Coding`
-- 📱: `Telegram  @SethLin`
-<!--
-**lingtaolf/lingtaolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ : ...
--->    
+<div align="center"><img alt="Static Badge" src="https://img.shields.io/badge/OLAP-oringe">
+ <img src=https://img.shields.io/badge/Telegram-%40SethLin-yellow /> <img src=https://img.shields.io/badge/Game-Dota2-red /> <img src=https://img.shields.io/badge/Email-lingtaolf%40gmail.com-green/></div>    
+<div align="center"><img src="https://img.shields.io/badge/FocusOn-Database%20%26%20BigData-yellow" /> <img alt="Static Badge" src="https://img.shields.io/badge/IDE-NeoVim-blue"></div>  
+<br/>
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=lingtaolf&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;"/>    
   
