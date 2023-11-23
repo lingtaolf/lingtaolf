@@ -3,7 +3,10 @@
 ### Hi there, I'm Seth  ʕ·ᴥ·ʔ  👋👋
 
 
-![暗色](https://raw.githubusercontent.com/lingtaolf/lingtaolf/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/lingtaolf/lingtaolf/output/github-contribution-grid-snake.svg)  
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=lingtaolf" /> </div>
+
 
 - 🔭 : `OLAP & Database`
 - 🤔 : `OLAP developer`
