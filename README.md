@@ -1,7 +1,6 @@
-<img src='https://i0.wp.com/www.spielanime.com/wp-content/uploads/2023/07/One-Piece-Wanted-Posters-Explained.jpg?resize=1024%2C576&ssl=1'/>
+
   
 ### Hi there, I'm Seth  ʕ·ᴥ·ʔ  👋👋
-
 
 ![](https://raw.githubusercontent.com/lingtaolf/lingtaolf/output/github-contribution-grid-snake.svg)  
 
@@ -30,4 +29,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=lingtaolf&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;"/>    
   
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=lingtaolf&layout=compact)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=lingtaolf&layout=compact)  
+
+<img src='https://i0.wp.com/www.spielanime.com/wp-content/uploads/2023/07/One-Piece-Wanted-Posters-Explained.jpg?resize=1024%2C576&ssl=1'/>
