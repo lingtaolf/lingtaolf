@@ -1,5 +1,7 @@
 
-  
+<meta name="referrer" content="no-referrer" />
+
+
 <div align="center"><font size=50> <b>Hi there, I'm Seth  ʕ·ᴥ·ʔ </b>  👋👋" <font/></div>  
 <br/>
 <br/>
@@ -13,7 +15,7 @@
 <br/>
 
 <div align="center"><img alt="Static Badge" src="https://img.shields.io/badge/OLAP-oringe">
- <img src=https://img.shields.io/badge/Telegram-%40SethLin-yellow /> <img src=https://img.shields.io/badge/Game-Dota2-red /> <img src=https://img.shields.io/badge/Email-lingtaolf%40gmail.com-green/></div>    
+ <img src=https://img.shields.io/badge/Telegram-%40SethLin-yellow /> <img referrer="https://stackoverflow.com/users/17375632/lingtaolf?" src=https://img.shields.io/badge/StackOverflow-LingtaoLf-red" /> <img src=https://img.shields.io/badge/Email-lingtaolf%40gmail.com-green/></div>    
 <div align="center"><img src="https://img.shields.io/badge/FocusOn-Database%20%26%20BigData-yellow" /> <img alt="Static Badge" src="https://img.shields.io/badge/IDE-NeoVim-blue"></div>  
 <br/>
 <br/>
