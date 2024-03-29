@@ -15,10 +15,6 @@
   
 <div align="center"> <img src=https://github-profile-trophy.vercel.app/?username=lingtaolf&row=2&column=3&title=Commit,PR,Stars,Followers,Issue,Repo&theme=oldie /> </div> 
   
-<br/>
-<br/>
-
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=lingtaolf&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;"/>    
   
