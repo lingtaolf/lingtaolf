@@ -7,7 +7,6 @@
 <br/>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=lingtaolf" /> </div>
   
-<div align="center"> <img src=https://raw.githubusercontent.com/lingtaolf/lingtaolf/output/github-contribution-grid-snake.svg /> </div>   
   
 <div align="center"> <img src=https://github-profile-trophy.vercel.app/?username=lingtaolf&row=2&column=3&title=Commit,PR,Stars,Followers,Issue,Repo&theme=oldie /> </div> 
   
@@ -23,4 +22,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lingtaolf&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;"/>    
   
 ![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=lingtaolf&layout=compact)
+
+<div align="center"> <img src=https://raw.githubusercontent.com/lingtaolf/lingtaolf/output/github-contribution-grid-snake.svg /> </div>   
+
 
