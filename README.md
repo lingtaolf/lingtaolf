@@ -19,6 +19,7 @@
   - 🔭 I'm currently working on **OLAP & Big Data Solutions**
   - 🌱 I'm passionate about **Database Optimization** and **Data Engineering**
   - 💡 I love exploring **distributed systems** and **real-time analytics**
+  - 〽️ I'm learning **AI Agent development**
   - 📫 How to reach me: **lingtaolf@gmail.com**
   - ⚡ Fun fact: **I code with NeoVim and love the terminal life!**
   - 🧠 Always learning something new in the data world
